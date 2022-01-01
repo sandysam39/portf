@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://sandysam39.github.io/portf/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -13,7 +13,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/sandysam39/portf/tree/main/assests/images/projects/sc.png)
+![mockup720](https://github.com/sandysam39/portf/tree/main/assests/images/projects/sc%20(215).png)
 ![skillsmockup](https://github.com/shubhamr9172/Responsive-Portfolio-using-HTML-CSS/blob/main/assests/images/Screenshot%20(215).png)
 
 
