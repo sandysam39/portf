@@ -11,12 +11,6 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
-
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/sandysam39/portf/tree/main/assests/images/projects/sc%20(215).png)
-![skillsmockup](https://github.com/shubhamr9172/Responsive-Portfolio-using-HTML-CSS/blob/main/assests/images/Screenshot%20(215).png)
-
-
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
