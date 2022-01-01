@@ -13,7 +13,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/shubhamr9172/Responsive-Portfolio-using-HTML-CSS/blob/main/assests/images/projects/portfolio1.jpg)
+![mockup720](https://github.com/sandysam39/portf/tree/main/assests/images/projects/sc.png)
 ![skillsmockup](https://github.com/shubhamr9172/Responsive-Portfolio-using-HTML-CSS/blob/main/assests/images/Screenshot%20(215).png)
 
 
@@ -21,9 +21,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-vivek-reddy-b3a15b158/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-samudre-180b61199/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2021 Shubham Reddy
+© 2021 Shubham Samudre
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
